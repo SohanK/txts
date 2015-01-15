@@ -1,4 +1,4 @@
-% Eating Habits
+% Eating Habits for bros
 % Jane Doe
 % March 22, 2005
 
